@@ -3,7 +3,7 @@ If you get {module_name} not defined error, heres the libs:
 # Time
 # Keyboard
 # Colorama
-To download them, do `pip install {module_name}`
+To download them, do `pip install {module_name}` in cmd.
 
 If you get any error send me the error on `zgnbusiness@outlook.com` or on discord `Zgn#5681`
 
